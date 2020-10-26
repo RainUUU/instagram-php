@@ -11,7 +11,6 @@ This is a PHP library which emulates Instagram's Private API. This library is pa
 **faizahmaddae**
 
 - ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](https://paypal.me/faizdae)
-- ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png)
 
 
 ----------
